@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="275c5cab-6ebc-4894-892b-0afd94a24b24" name="Changes" comment="first commit">
+    <list default="true" id="275c5cab-6ebc-4894-892b-0afd94a24b24" name="Changes" comment="Merge branch 'main' of https://github.com/SrullSim/tweet_cleaner into loader&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/tweets_dataset.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/data_analyzer.py" afterDir="false" />
@@ -29,21 +30,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SrullSim"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SrullSim&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SrullSim/tweet_cleaner.git",
-    "accountId": "ea16b1e1-987c-4da5-b720-203516499ed0"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SrullSim/tweet_cleaner.git&quot;,
+    &quot;accountId&quot;: &quot;ea16b1e1-987c-4da5-b720-203516499ed0&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="30oLWl5gfXVvbUztDv6sgzg7f5o" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -57,7 +58,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "structure"
+    "git-widget-placeholder": "Merging loader"
   }
 }]]></component>
   <component name="SharedIndexes">
