@@ -8,10 +8,10 @@ from loader import Loader
 
 class Cleaner:
 
-    def __init__(self,df,  meaning_columns):
+    def __init__(self, df, column_to_drop):
         self.original_df = df
         self.df= df.copy()
-        self.columns_to_drop = meaning_columns
+        self.columns_to_drop = column_to_drop
         self.clean_uninteresting()
         self.replace_to_lower()
         self.replace_punctuation_marks()
@@ -38,12 +38,12 @@ class Cleaner:
 
 
 
-
-cols = ['TweetID']
-l = Loader("../data/tweets_dataset.csv")
-c = Cleaner(l.df, cols)
-pprint(c.df["Text"])
-c.replace_punctuation_marks()
-c.empty_cell()
-
-pprint(c.df["Text"])
+#
+# cols = ['TweetID']
+# l = Loader("../data/tweets_dataset.csv")
+# c = Cleaner(l.df, cols)
+# pprint(c.df["Text"])
+# c.replace_punctuation_marks()
+# # c.empty_cell()
+#
+# pprint(c.df["Text"])

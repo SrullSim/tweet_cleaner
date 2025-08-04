@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="275c5cab-6ebc-4894-892b-0afd94a24b24" name="Changes" comment="Merge branch 'main' of https://github.com/SrullSim/tweet_cleaner into loader&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cleaner.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/cleaner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reporter.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/reporter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +54,7 @@
     "Python.data_analyzer.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "data-explore"
+    "git-widget-placeholder": "reporter"
   }
 }]]></component>
   <component name="SharedIndexes">
