@@ -4,20 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="275c5cab-6ebc-4894-892b-0afd94a24b24" name="Changes" comment="" />
+    <list default="true" id="275c5cab-6ebc-4894-892b-0afd94a24b24" name="Changes" comment="Merge branch 'main' of https://github.com/SrullSim/tweet_cleaner into loader&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/tweets_dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_analyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reporter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tweet_cleaner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tweet_cleaner.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="loader" />
-      </map>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
     </option>
+  </component>
+  <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SrullSim&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SrullSim/tweet_cleaner.git&quot;,
+    &quot;accountId&quot;: &quot;ea16b1e1-987c-4da5-b720-203516499ed0&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -33,7 +57,8 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "loader"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Merging loader"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -51,6 +76,19 @@
       <option name="presentableId" value="Default" />
       <updated>1754289012819</updated>
     </task>
+    <task id="LOCAL‎-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1754289112617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1754289112617</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
