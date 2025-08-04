@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="275c5cab-6ebc-4894-892b-0afd94a24b24" name="Changes" comment="Merge branch 'main' of https://github.com/SrullSim/tweet_cleaner into loader&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tweets_dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_analyzer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reporter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tweet_cleaner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tweet_cleaner.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_analyzer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_analyzer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/loader.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +50,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.data_analyzer.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging loader"
+    "git-widget-placeholder": "data-explore"
   }
 }]]></component>
   <component name="SharedIndexes">
